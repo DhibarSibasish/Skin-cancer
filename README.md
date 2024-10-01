@@ -1,1 +1,1 @@
-Skin Classification through pretrained model
+Skin Cancer Classification Using Deep Learning

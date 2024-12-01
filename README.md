@@ -20,13 +20,14 @@ vasc: Vascular lesions
 
 | Class | Example |
 |-------|---------|
-| akiec | ![image](https://github.com/user-attachments/assets/923df9a6-10ba-4f07-b708-a443b856f27e)|
-| bcc   | ![image](https://github.com/user-attachments/assets/0f6ace7d-987d-4c3b-af61-e7e2ade91d25) \                                                           |
-|bkl:   |
-|df:    |
-| mel:  |
-| nv:   |
-| vasc  |
+| akiec | ![image](https://github.com/user-attachments/assets/923df9a6-10ba-4f07-b708-a443b856f27e) |
+| bcc   | ![image](https://github.com/user-attachments/assets/0f6ace7d-987d-4c3b-af61-e7e2ade91d25) |                                                           |
+|bkl    | ![image](https://github.com/user-attachments/assets/95e5c8e3-ee06-44c7-be26-17c7579d2ba2) |
+|df     | ![image](https://github.com/user-attachments/assets/8c35da64-d845-4e48-9618-f7cd72641c9b) |
+| mel   | ![image](https://github.com/user-attachments/assets/043b5882-0235-4579-aaaa-dbb7ec2a6951) |
+| nv    | ![image](https://github.com/user-attachments/assets/179371f7-a79d-4cf2-b46d-22608e372b92) |
+| vasc  | ![image](https://github.com/user-attachments/assets/71b02554-7ace-4fac-bc29-48fabb459c58) |
+
 
 
 

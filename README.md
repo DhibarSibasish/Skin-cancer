@@ -20,9 +20,8 @@ vasc: Vascular lesions
 
 | Class | Example |
 |-------|---------|
-| akiec | [image](https://github.com/user-attachments/assets/923df9a6-10ba-4f07-b708-a443b856f27e)|
- |
-| bcc   |
+| akiec | ![image](https://github.com/user-attachments/assets/923df9a6-10ba-4f07-b708-a443b856f27e)|
+| bcc   | ![image](https://github.com/user-attachments/assets/0f6ace7d-987d-4c3b-af61-e7e2ade91d25) \                                                           |
 |bkl:   |
 |df:    |
 | mel:  |

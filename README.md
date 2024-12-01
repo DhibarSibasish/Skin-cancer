@@ -8,22 +8,13 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 
 
 ## ![Categories:](https://img.shields.io/badge/Categories-orange)
-
-
-
 - akiec: Actinic keratoses and intraepithelial carcinoma
-
 - bcc: Basal cell carcinoma
-
 - bkl: Benign keratosis-like lesions
-
 - df: Dermatofibroma
-
 - mel: Melanoma
-
-nv: Melanocytic nevi
-
-vasc: Vascular lesions
+- nv: Melanocytic nevi
+- vasc: Vascular lesions
 
 | Class | Example |
 |-------|---------|
@@ -40,24 +31,35 @@ vasc: Vascular lesions
         📂 Dataset
         
 ### The dataset used in this project is the HAM10000 dataset.
-
   - Source: HAM10000 Dataset
-
   - Images: 10,015 dermoscopic images, categorized into seven classes.
-
   - Preprocessing: Images resized to 128x128 for consistency.
 
+## How to Run the App:
+
+### Method 1
+- Run the `app.py` file
+- Go to [http://localhost:5000/](http://localhost:5000/) on your browser
+- Use the **Upload** button to browse and upload the image you want
+- Hit **Submit** to get the results.
+
+### Method 2
+- Deploy it to **Azure Web App** or **Heroku App** through your GitHub repository
+- Go to the URL generated after deployment on your browser
+- Use the **Upload** button to browse and upload the image you want
+- Hit **Submit** to get the results.
+
+---
+
 ## Libraries Used:
-- numpy
-- keras
-- tensorflow-cpu==2.5.0
-- pandas
-- matplotlib
-- pillow
-- flask
-- seaborn
-- gunicorn
-
-
+- `numpy`
+- `keras`
+- `tensorflow-cpu==2.5.0`
+- `pandas`
+- `matplotlib`
+- `pillow`
+- `flask`
+- `seaborn`
+- `gunicorn`
 
 

@@ -57,6 +57,11 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 - [Tensorflow](https://www.tensorflow.org/) - version 2.15.0
 
 ---
+## Model Summary
+![image](https://github.com/user-attachments/assets/591619d1-6dc9-4c64-9edd-c919e76ffb72)
+
+
+
 
 ## Acknowledgements
 

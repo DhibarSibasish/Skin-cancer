@@ -2,6 +2,10 @@
 
 Skin cancer is a crucial health issue that requires timely detection for higher survival rates. Traditional computer vision techniques face challenges in addressing the advanced variability of skin lesion features, a gap partially bridged by convolutional neural networks (CNNs). To overcome the existing issues, we introduce an innovative convolutional ensemble network approach named deep autoencoder (DAE) with ResNet101. This method utilizes convolution-based deep neural networks for the detection of skin cancer. The ISIC-2018 public data taken from the source is used for experimental results, which demonstrate remarkable performance with the different in terms of performance metrics.
 
+# Model Architecture
+                        ![image](https://github.com/user-attachments/assets/d2b593ad-e05c-4a70-9c58-cc31ec6f7a3a)
+
+
 ## Categories:
 
 akiec: Actinic keratoses and intraepithelial carcinoma
@@ -28,20 +32,17 @@ vasc: Vascular lesions
 | nv    | ![image](https://github.com/user-attachments/assets/179371f7-a79d-4cf2-b46d-22608e372b92) |
 | vasc  | ![image](https://github.com/user-attachments/assets/71b02554-7ace-4fac-bc29-48fabb459c58) |
 
-
-
-
-Play with Skin Cancer Images(https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+### Play with Skin Cancer Images(https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 
         📂 Dataset
+        
+### The dataset used in this project is the HAM10000 dataset.
 
-
-The dataset used in this project is the HAM10000 dataset.
 Source: HAM10000 Dataset
+
 Images: 10,015 dermoscopic images, categorized into seven classes.
+
 Preprocessing: Images resized to 128x128 for consistency.
 
-How to Run the App:
-## Library imports
 
 

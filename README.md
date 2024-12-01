@@ -1,11 +1,9 @@
-🌟
 ## Project Overview 
 
 Skin cancer is a crucial health issue that requires timely detection for higher survival rates. Traditional computer vision techniques face challenges in addressing the advanced variability of skin lesion features, a gap partially bridged by convolutional neural networks (CNNs). To overcome the existing issues, we introduce an innovative convolutional ensemble network approach named deep autoencoder (DAE) with ResNet101. This method utilizes convolution-based deep neural networks for the detection of skin cancer. The ISIC-2018 public data taken from the source is used for experimental results, which demonstrate remarkable performance with the different in terms of performance metrics.
 
 # Model Architecture
-          ![image](https://github.com/user-attachments/assets/0f23bb16-8005-49c8-bf31-d20ba183685a)
-
+          ![image](https://github.com/user-attachments/assets/1d7c764c-fb61-4573-8ff5-1366196b761c)
 
 ## ![Categories:](https://img.shields.io/badge/Categories-orange)
 - akiec: Actinic keratoses and intraepithelial carcinoma
@@ -34,20 +32,6 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
   - Source: HAM10000 Dataset
   - Images: 10,015 dermoscopic images, categorized into seven classes.
   - Preprocessing: Images resized to 128x128 for consistency.
-
-## How to Run the App:
-
-### Method 1
-- Run the `app.py` file
-- Go to [http://localhost:5000/](http://localhost:5000/) on your browser
-- Use the **Upload** button to browse and upload the image you want
-- Hit **Submit** to get the results.
-
-### Method 2
-- Deploy it to **Azure Web App** or **Heroku App** through your GitHub repository
-- Go to the URL generated after deployment on your browser
-- Use the **Upload** button to browse and upload the image you want
-- Hit **Submit** to get the results.
 
 ---
 

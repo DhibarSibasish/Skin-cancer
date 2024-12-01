@@ -6,13 +6,13 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
           ![image](https://github.com/user-attachments/assets/1d7c764c-fb61-4573-8ff5-1366196b761c)
 
 ## ![Categories:](https://img.shields.io/badge/Categories-orange)
-- akiec: Actinic keratoses and intraepithelial carcinoma
-- bcc: Basal cell carcinoma
-- bkl: Benign keratosis-like lesions
-- df: Dermatofibroma
-- mel: Melanoma
-- nv: Melanocytic nevi
-- vasc: Vascular lesions
+- 0: akiec: Actinic keratoses and intraepithelial carcinoma
+- 1: bcc: Basal cell carcinoma
+- 2: bkl: Benign keratosis-like lesions
+- 3: df: Dermatofibroma
+- 4: mel: Melanoma
+- 5: nv: Melanocytic nevi
+- 6: vasc: Vascular lesions
 
 | Class | Example |
 |-------|---------|

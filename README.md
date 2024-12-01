@@ -47,4 +47,25 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 - `seaborn`
 - `gunicorn`
 
+## Technologies Used
+
+- [Python](https://www.python.org/) - version 3.11.4
+- [Matplotlib](https://matplotlib.org/) - version 3.7.1
+- [Numpy](https://numpy.org/) - version 1.24.3
+- [Pandas](https://pandas.pydata.org/) - version 1.5.3
+- [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
+- [Tensorflow](https://www.tensorflow.org/) - version 2.15.0
+
+---
+
+## Acknowledgements
+
+- UpGrad tutorials on Convolution Neural Networks (CNNs) on the learning platform
+- [Melanoma Skin Cancer](https://www.skincancer.org/skin-cancer-information/melanoma/)
+- [Introduction to CNN](https://www.analyticsvidhya.com/blog/2021/06/convolutional-neural-networks-a-complete-guide-for-beginners/)
+- [Image classification using CNN](https://towardsdatascience.com/image-classification-in-10-minutes-with-cnn-keras-and-google-colab-36d7673e5eaf)
+- [Efficient way to build CNN architecture](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
+
+---
+
 

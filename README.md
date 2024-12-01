@@ -1,22 +1,25 @@
-🌟 ## Project Overview 
+🌟
+## Project Overview 
 
 Skin cancer is a crucial health issue that requires timely detection for higher survival rates. Traditional computer vision techniques face challenges in addressing the advanced variability of skin lesion features, a gap partially bridged by convolutional neural networks (CNNs). To overcome the existing issues, we introduce an innovative convolutional ensemble network approach named deep autoencoder (DAE) with ResNet101. This method utilizes convolution-based deep neural networks for the detection of skin cancer. The ISIC-2018 public data taken from the source is used for experimental results, which demonstrate remarkable performance with the different in terms of performance metrics.
 
 # Model Architecture
-                        ![image](https://github.com/user-attachments/assets/d2b593ad-e05c-4a70-9c58-cc31ec6f7a3a)
+          ![image](https://github.com/user-attachments/assets/0f23bb16-8005-49c8-bf31-d20ba183685a)
 
 
-## Categories:
+## ![Categories:](https://img.shields.io/badge/Categories-orange)
 
-akiec: Actinic keratoses and intraepithelial carcinoma
 
-bcc: Basal cell carcinoma
 
-bkl: Benign keratosis-like lesions
+- akiec: Actinic keratoses and intraepithelial carcinoma
 
-df: Dermatofibroma
+- bcc: Basal cell carcinoma
 
-mel: Melanoma
+- bkl: Benign keratosis-like lesions
+
+- df: Dermatofibroma
+
+- mel: Melanoma
 
 nv: Melanocytic nevi
 
@@ -38,11 +41,23 @@ vasc: Vascular lesions
         
 ### The dataset used in this project is the HAM10000 dataset.
 
-Source: HAM10000 Dataset
+  - Source: HAM10000 Dataset
 
-Images: 10,015 dermoscopic images, categorized into seven classes.
+  - Images: 10,015 dermoscopic images, categorized into seven classes.
 
-Preprocessing: Images resized to 128x128 for consistency.
+  - Preprocessing: Images resized to 128x128 for consistency.
+
+## Libraries Used:
+- numpy
+- keras
+- tensorflow-cpu==2.5.0
+- pandas
+- matplotlib
+- pillow
+- flask
+- seaborn
+- gunicorn
+
 
 
 

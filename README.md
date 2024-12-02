@@ -35,6 +35,34 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
   - Preprocessing: Images resized to 128x128 for consistency.
 
 ---
+## Overview
+- **Goal:** Predicted classification of the skin cancer of 7 class.
+- **Dataset:** Skin cancer datasets  with 7 class.
+
+---
+
+## Instructions
+
+### 1. Run the Code:
+1. Run `main.m` in MATLAB.
+
+### 2. Dataset:
+- **Input file:** `sample.mat` (a synthetic dataset with 5 columns).
+
+### 3. Parameters:
+- `MaxIt = 200`: Maximum iterations.
+- `nPop = 30`: Population size.
+
+---
+
+## Results
+
+Results are saved as Excel files:
+- **`AHA_main.xlsx`:** Main results including costs and intra/inter distances.
+- **`AHA_convergence.xlsx`:** Records best fitness over iterations.
+- **`AHA_cluster_CentreX.xlsx`:** Final cluster centers.
+
+---
 
 ## Libraries Used:
 - `numpy`
@@ -47,14 +75,6 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 - `seaborn`
 - `gunicorn`
 
-## Technologies Used
-
-- [Python](https://www.python.org/) - version 3.11.4
-- [Matplotlib](https://matplotlib.org/) - version 3.7.1
-- [Numpy](https://numpy.org/) - version 1.24.3
-- [Pandas](https://pandas.pydata.org/) - version 1.5.3
-- [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
-- [Tensorflow](https://www.tensorflow.org/) - version 2.15.0
 
 ---
 ## Model Summary

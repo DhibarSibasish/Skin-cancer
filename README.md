@@ -44,23 +44,16 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 ## Instructions
 
 ### 1. Run the Code:
-1. Run `main.m` in MATLAB.
+1. Run `SKIN_ResNet50_VGG19.ipynb` in VS Code.
 
 ### 2. Dataset:
-- **Input file:** `sample.mat` (a synthetic dataset with 5 columns).
-
-### 3. Parameters:
-- `MaxIt = 200`: Maximum iterations.
-- `nPop = 30`: Population size.
+- **Input file:** ` HAM10000 dataset`.
 
 ---
 
 ## Results
+- **`Accuracy, F1 Score, AUC(ROC)`**
 
-Results are saved as Excel files:
-- **`AHA_main.xlsx`:** Main results including costs and intra/inter distances.
-- **`AHA_convergence.xlsx`:** Records best fitness over iterations.
-- **`AHA_cluster_CentreX.xlsx`:** Final cluster centers.
 
 ---
 

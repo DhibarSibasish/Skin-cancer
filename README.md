@@ -44,7 +44,7 @@ Skin cancer is a crucial health issue that requires timely detection for higher 
 ## Instructions
 
 ### 1. Run the Code:
-1. Run `SKIN_ResNet50_VGG19.ipynb` in VS Code.
+1. Run `SKIN_ResNet50_VGG19.ipynb'.
 
 ### 2. Dataset:
 - **Input file:** ` HAM10000 dataset`.
